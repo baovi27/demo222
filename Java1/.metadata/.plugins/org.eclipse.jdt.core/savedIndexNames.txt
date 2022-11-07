@@ -1,0 +1,16 @@
+INDEX VERSION 1.131+C:\Users\Administrator\Documents\FPT Polytechnic\Java1\.metadata\.plugins\org.eclipse.jdt.core
+2633107417.index
+3139484087.index
+113744927.index
+1030259265.index
+3883418199.index
+1865797976.index
+3437147645.index
+3946796104.index
+262618113.index
+1281376111.index
+1968947691.index
+2157718071.index
+2606080199.index
+2620941534.index
+508142332.index

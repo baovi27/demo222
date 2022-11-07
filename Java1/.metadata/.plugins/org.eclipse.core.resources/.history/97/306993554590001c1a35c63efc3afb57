@@ -1,0 +1,16 @@
+
+public class SinhVienPoly 
+{
+
+	public static void main(String[] args) 
+	{
+		String hoten;
+		String nghang;
+		public SInhVienPoly(String hoten, String nganh)
+		{
+			this.hoten=hoten;
+			this.nganh=nganh;
+		}
+	}
+
+}
